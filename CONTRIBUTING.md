@@ -1,1 +1,8 @@
-
+- short thank you note for thinking to contribute 
+- sort of contributions looking for 
+- how to suggest updates / fixes etc
+- how to interact with the project using GitHub i.e. pull request
+- how to create a bug / issue
+- ultime goal of the project
+- how to contact those in charge and links to external stuff
+- look at MOOC guidelines 
