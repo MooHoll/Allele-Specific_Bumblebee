@@ -24,8 +24,8 @@ This project is part of the work from the Social Epigenetics group at the Unvier
 If you would like to use any of the code found here please cite this project following the below DOI:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1974852.svg)](https://doi.org/10.5281/zenodo.1974852)
 
-How to contribute to the code: [here](Allele-Specific_Bumblebee/CONTRIBUTING.md).
-Project license: [here](Allele-Specific_Bumblebee/LICENSE).
+How to contribute to the code: [here](Allele-Specific_Bumblebee/CONTRIBUTING.md).<br/>
+Project license: [here](Allele-Specific_Bumblebee/LICENSE).<br/>
 Code of conduct: [here](Allele-Specific_Bumblebee/CODE_OF_CONDUCT.md).
 
 If you have any questions/comments etc. feel free to contact me us at:
