@@ -1,4 +1,4 @@
-## Contibuting Information
+# Contibuting Information
 
 Thank you for considering making contributions to this code and/or project. All feedback and contributions are very welcome. Feel free to contact me if you would like discuss any content in this repository: </br>
 - email: hollie_marshall@hotmail.co.uk
@@ -6,13 +6,13 @@ Thank you for considering making contributions to this code and/or project. All 
 
 The goal of this project is to design and link piplines for allele-specific expression and allele-specific methylation for organisms with extremely low methylation levels, i.e. 0.5% CpGs. 
 
-\hline
 
-### Current Goals
+
+## Current Goals
 Currently I am looking to design methods for linking the output from the allele-secific expression pipeline with that of the allele-specific methylation pipeline.
 
 
-### Pull Requests
+## Pull Requests
 
 In general, we follow the "fork-and-pull" Git workflow.
 
@@ -35,7 +35,7 @@ In general, we follow the "fork-and-pull" Git workflow.
     - Once accepted your code will be merged to `master`.
 
 
-### Creating a Bug / Issue 
+## Creating a Bug / Issue 
 
 **Search for existing issues.** Please check to see if someone else has reported the same issue.
 
