@@ -24,7 +24,7 @@ This project is part of the work from the Social Epigenetics group at the Unvier
 If you would like to use any of the code found here please cite this project following the below DOI:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1974852.svg)](https://doi.org/10.5281/zenodo.1974852)
 
-**Citation:** Marshall, H., Jones, A., Lonsdale, Z.N. and Mallon, E.B. (2018, December 5). MooHoll/Allele-Specific_Bumblebee: First Release (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1974852
+**Citation:** Marshall, H., Jones, A., Lonsdale, Z. N., & Mallon, E.B. (2018, December 5). MooHoll/Allele-Specific_Bumblebee: First Release (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1974852
 
 How to contribute to the code: [here](Allele-Specific_Bumblebee/CONTRIBUTING.md).<br/>
 Project license: [here](Allele-Specific_Bumblebee/LICENSE).<br/>
