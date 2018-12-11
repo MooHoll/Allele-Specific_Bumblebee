@@ -6,6 +6,7 @@ Thank you for considering making contributions to this code and/or project. All 
 
 The goal of this project is to design and link piplines for allele-specific expression and allele-specific methylation for organisms with extremely low methylation levels, i.e. 0.5% CpGs. 
 
+\hline
 
 ### Current Goals
 Currently I am looking to design methods for linking the output from the allele-secific expression pipeline with that of the allele-specific methylation pipeline.
