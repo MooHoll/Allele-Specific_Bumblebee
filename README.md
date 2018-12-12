@@ -34,5 +34,4 @@ If you have any questions/comments etc. feel free to contact me us at:
 - email: hollie_marshall@hotmail.co.uk
 - twitter: @mooholl
 
-Random edit in Rstudio to test git ... blah!!
 
