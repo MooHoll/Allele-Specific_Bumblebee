@@ -30,7 +30,7 @@ How to contribute to the code: [here](Allele-Specific_Bumblebee/CONTRIBUTING.md)
 Project license: [here](Allele-Specific_Bumblebee/LICENSE).<br/>
 Code of conduct: [here](Allele-Specific_Bumblebee/CODE_OF_CONDUCT.md).
 
-If you have any questions/comments etc. feel free to contact me us at:
+If you have any questions/comments etc. feel free to contact me at:
 - email: hollie_marshall@hotmail.co.uk
 - twitter: @mooholl
 
