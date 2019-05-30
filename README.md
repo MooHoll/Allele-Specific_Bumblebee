@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1974852.svg)](https://doi.org/10.5281/zenodo.1974852)
 
-Allele-specific expression and methylation has been identified in *Bombus terrestris* previously [here](https://doi.org/10.7717/peerj.3798). The aim of this project is to examine allele-specific expression and methylation at base-pair resolution and identify any links between the two. 
+Allele-specific expression and methylation has been identified in *Bombus terrestris* previously [here](https://doi.org/10.7717/peerj.3798). The aim of this project is to examine allele-specific expression and methylation at base-pair resolution and identify any links between the two.
 
 The code generated here can be used to identify allele-specific expression in other organisms and the methylation pipeline will be particularly useful for organisms with low-levels of methylation, e.g. 0.5% CpGs. 
 
@@ -14,8 +14,8 @@ This project is part of the work from the Social Epigenetics group at the Unvier
 - Data generation **done**
 - Data cleaning and mapping **done**
 - Alleleically methylated genes identified **done**
-- Alleleically expressed genes identified *in progress*
-- Linking data 
+- Alleleically expressed genes identified **done**
+- Linking data **done**
 - Making all code avaliable *in progress*
 - Writing up
 
