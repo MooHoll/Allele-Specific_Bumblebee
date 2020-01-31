@@ -1,6 +1,6 @@
 # Allele Specific Expression and Methylation in *Bombus terrestris*.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1974852.svg)](https://doi.org/10.5281/zenodo.1974852)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3632495.svg)](https://doi.org/10.5281/zenodo.3632495)
 
 Allele-specific expression and methylation has been identified in *Bombus terrestris* previously [here](https://doi.org/10.7717/peerj.3798). The aim of this project is to examine allele-specific expression and methylation at base-pair resolution and identify any links between the two.
 
@@ -21,7 +21,7 @@ This project is part of the work from the Social Epigenetics group at the Unvier
 If you would like to use any of the code found here please cite this project following the below DOI:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1974852.svg)](https://doi.org/10.5281/zenodo.1974852)
 
-**Citation:** Marshall, H., Jones, A., Lonsdale, Z. N., & Mallon, E.B. (2020, January 31st). MooHoll/Allele-Specific_Bumblebee: First Release (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1974852
+**Citation:** Marshall, H., Jones, A., Lonsdale, Z. N., & Mallon, E.B. (2020, January 31st). MooHoll/Allele-Specific_Bumblebee: Updated (Version 1.0.1). Zenodo. https://doi.org/10.5281/zenodo.3632495
 
 How to contribute to the code: [here](Allele-Specific_Bumblebee/CONTRIBUTING.md).<br/>
 Project license: [here](Allele-Specific_Bumblebee/LICENSE).<br/>
