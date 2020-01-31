@@ -19,7 +19,7 @@ This project is part of the work from the Social Epigenetics group at the Unvier
 ## Additional Info
 
 If you would like to use any of the code found here please cite this project following the below DOI:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1974852.svg)](https://doi.org/10.5281/zenodo.1974852)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3632495.svg)](https://doi.org/10.5281/zenodo.3632495)
 
 **Citation:** Marshall, H., Jones, A., Lonsdale, Z. N., & Mallon, E.B. (2020, January 31st). MooHoll/Allele-Specific_Bumblebee: Updated (Version 1.0.1). Zenodo. https://doi.org/10.5281/zenodo.3632495
 
