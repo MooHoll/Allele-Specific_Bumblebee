@@ -1,6 +1,6 @@
 # Allele Specific Expression and Methylation in *Bombus terrestris*.
 
-This is a repository for the code for the following publication:
+This is a repository for the code for the following publication:</br>
 Marshall, H., Jones, A., Lonsdale, Z. N., & Mallon, E.B. (2020). Bumblebee workers show differences in allele-specific methylation and allele-specific expression. <i>Genome Biology and Evolution</i>. DOI:https://doi.org/10.1093/gbe/evaa132
 
 ## Project Team: 
@@ -15,7 +15,7 @@ This project is part of the work from the Social Epigenetics group at the Unvier
   
 ## Additional Info
 
-If you would like to use any of the custom code found here please cite the following paper:
+If you would like to use any of the custom code found here please cite the following paper:</br>
 Marshall, H., Jones, A., Lonsdale, Z. N., & Mallon, E.B. (2020). Bumblebee workers show differences in allele-specific methylation and allele-specific expression. *Genome Biology and Evolution* DOI:https://doi.org/10.1093/gbe/evaa132
 
 If you have any questions/comments etc. feel free to contact me at:
